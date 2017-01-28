@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_7b0abf39ebfa0f374ca9994d2ab5d3d68408c2c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_f4d0f25afb9de6ba53a54d3a7f5aa0d9feeb4af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_4922a1ec915b3f0cdad19911f787f0699fc184ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7a4ac5039589370bc046918bfc4b9c62e9b39030">
+        <dex dex="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a85cbe15337e71230e1275b9a8ba9a21dd13f3ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_fcec453c29705a34558dbb4eee7d65f34558485f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="36307221c41ce376e1d0e75cf9739ceb99062533">
+        <dex dex="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ecfa1c793368dbe19854764401aa9f038259b891/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Justin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Justin/AndroidStudioProjects/AnagramsActivity/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_c792c3b7e501131707596143ac21925262cdc0bc/classes.dex" />
+    </item>
+
+</items>
